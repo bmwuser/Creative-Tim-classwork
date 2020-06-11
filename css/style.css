@@ -3,8 +3,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.middle {
+width: 1440px;
 
 
+}
+@media (max-width:1140px) {
+
+}
 a {
   text-decoration: none;
 }
